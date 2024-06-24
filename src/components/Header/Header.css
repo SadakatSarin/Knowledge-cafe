@@ -1,0 +1,36 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #aa9dfd;
+    padding: 2em;
+    margin: 1em;
+
+    border-radius: 25px;
+    
+    color: white;
+    width: 100%;
+   
+    
+}
+
+.brand {
+    font-size: 1.5em;
+}
+
+.nav-links {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.nav-links .user-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

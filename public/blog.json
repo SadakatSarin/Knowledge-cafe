@@ -1,0 +1,47 @@
+
+[
+    {
+        "id": 1,
+        "authorName": "Mr. Raju",
+        "blogTitle": "Top 10 Features of ES6",
+        "images": {
+            "blogCoverImage":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "authorImage": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        "readTime": "5 min read",
+        "publishDate": "Mar 14, 2024"
+    },
+    {
+        "id": 2,
+        "authorName": "Ms. Ananya",
+        "blogTitle": "Understanding Async/Await in JavaScript",
+        "images": {
+            "blogCoverImage": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "authorImage": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        "readTime": "7 min read",
+        "publishDate": "Mar 10, 2024"
+    },
+    {
+        "id": 3,
+        "authorName": "Dr. Patel",
+        "blogTitle": "A Comprehensive Guide to React Hooks",
+        "images": {
+            "blogCoverImage": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "authorImage": "https://images.pexels.com/photos/936229/pexels-photo-936229.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        "readTime": "10 min read",
+        "publishDate": "Mar 8, 2024"
+    },
+    {
+        "id": 4,
+        "authorName": "Mr. Ahmed",
+        "blogTitle": "Building REST APIs with Node.js",
+        "images": {
+            "blogCoverImage": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "authorImage": "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        "readTime": "12 min read",
+        "publishDate": "Mar 5, 2024"
+    }
+]

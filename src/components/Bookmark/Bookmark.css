@@ -1,0 +1,32 @@
+
+
+.book-mark-blogs{
+
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    padding:3px 58px  ;
+    margin: 20px;
+    position: sticky;
+
+    top: 100px;
+
+
+}
+
+.bookmark-title-name{
+
+    padding: 20px;
+    background-color: #fff;
+    border-radius:10px ;
+    margin: 16px;
+    
+}
+
+
+@media screen and (max-width: 480px) {
+    
+
+    
+
+
+  }
